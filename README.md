@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # firebase
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# tp-mob-dev-firebase
+Flutter mobile app with Firebase Authentication and Firestore - Login, Signup, Profile and Password Reset
+>>>>>>> d76487583695c9c16013fab9efc933d61c8ecf6e
