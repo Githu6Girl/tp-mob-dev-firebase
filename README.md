@@ -66,11 +66,9 @@ lib/
 4. Add an Android app with package name `com.tp.firebase`
 5. Download `google-services.json` and place it in `android/app/`
 
-## 📸 Screenshots
+## 🎥 Demo
 
-| Login | Signup | Profile |
-|-------|--------|---------|
-| Login page with email/password | Signup with full user info | Profile showing user data |
+[Watch the demo video](https://drive.google.com/drive/folders/1zS4u9YMISSec5pPGO9W0MLB9xTZlLQoM?usp=sharing)
 
 ## 👩‍💻 Author
 
